@@ -1,10 +1,9 @@
 {
   "name": "my-parsing",
   "main": "./lib/my-parsing",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Just parsing javascript source code (JG)",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "my-parsing:toggle"
   },
@@ -14,7 +13,7 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "esprima":"2.7.2",
-    "estraverse":"4.2.0"
+    "esprima": "2.7.2",
+    "estraverse": "4.2.0"
   }
 }
