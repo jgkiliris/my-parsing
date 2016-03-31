@@ -1,7 +1,7 @@
 {
   "name": "my-parsing",
   "main": "./lib/my-parsing",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "Just parsing javascript source code (JG)",
   "keywords": [],
   "activationCommands": {
