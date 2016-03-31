@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "my-parsing:toggle"
   },
-  "repository": "https://github.com/atom/my-parsing",
+  "repository": "https://github.com/jgkiliris/my-parsing",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
